@@ -1,0 +1,19 @@
+\vspace {10pt}
+\addvspace {10.0pt}
+\addvspace {10.0pt}
+\addvspace {10.0pt}
+\contentsline {table}{\numberline {3.1}{\ignorespaces StateFarm和AUCD2分心驾驶行为数据集的分布\relax }}{28}{table.caption.26}%
+\contentsline {table}{\numberline {3.2}{\ignorespaces RViT与ViT的参数详情\relax }}{29}{table.caption.27}%
+\contentsline {table}{\numberline {3.3}{\ignorespaces 各分类算法在数据集中准确率（Acc）的性能比较\relax }}{30}{table.caption.28}%
+\contentsline {table}{\numberline {3.4}{\ignorespaces 各分类算法在分心驾驶行为数据集中稳定度（S）的性能比较\relax }}{32}{table.caption.30}%
+\contentsline {table}{\numberline {3.5}{\ignorespaces 各分类算法在参数量、GPU要求、迭代时间的性能比较\relax }}{33}{table.caption.31}%
+\addvspace {10.0pt}
+\contentsline {table}{\numberline {4.1}{\ignorespaces 在AUCD2分类数据集上的性能比较\relax }}{42}{table.caption.33}%
+\contentsline {table}{\numberline {4.2}{\ignorespaces 在FER2013分类数据集上的性能比较\relax }}{42}{table.caption.34}%
+\contentsline {table}{\numberline {4.3}{\ignorespaces 在FERPlus分类数据集上的性能比较\relax }}{43}{table.caption.35}%
+\contentsline {table}{\numberline {4.4}{\ignorespaces 在RAF-DB分类数据集上的性能比较\relax }}{43}{table.caption.36}%
+\contentsline {table}{\numberline {4.5}{\ignorespaces 消融实验\relax }}{45}{table.caption.38}%
+\contentsline {table}{\numberline {4.6}{\ignorespaces FER2013数据集上训练一个Epoch所需平均时间（单位：秒）\relax }}{46}{table.caption.39}%
+\addvspace {10.0pt}
+\contentsline {table}{\numberline {5.1}{\ignorespaces 系统依赖软件包及其对应版本\relax }}{47}{table.caption.40}%
+\addvspace {10.0pt}

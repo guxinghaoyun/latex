@@ -1,0 +1,57 @@
+\contentsline {chapter}{摘要}{I}{section*.1}%
+\contentsline {chapter}{ABSTRACT}{III}{section*.3}%
+\contentsline {chapter}{插图索引}{V}{section*.5}%
+\contentsline {chapter}{表格索引}{VII}{section*.7}%
+\contentsline {chapter}{符号对照表}{IX}{section*.9}%
+\contentsline {chapter}{缩略语对照表}{XI}{section*.11}%
+\contentsline {chapter}{\numberline {第一章\hspace {.3em}}绪论}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}研究背景和意义}{1}{section.1.1}%
+\contentsline {section}{\numberline {1.2}分心驾驶行为检测技术研究现状}{3}{section.1.2}%
+\contentsline {subsection}{\numberline {1.2.1}起源}{3}{subsection.1.2.1}%
+\contentsline {subsection}{\numberline {1.2.2}研究现状}{4}{subsection.1.2.2}%
+\contentsline {subsection}{\numberline {1.2.3}分心驾驶行为数据集}{8}{subsection.1.2.3}%
+\contentsline {section}{\numberline {1.3}本文主要研究内容及论文结构}{9}{section.1.3}%
+\contentsline {subsection}{\numberline {1.3.1}研究内容}{10}{subsection.1.3.1}%
+\contentsline {subsection}{\numberline {1.3.2}论文章节安排}{11}{subsection.1.3.2}%
+\contentsline {chapter}{\numberline {第二章\hspace {.3em}}分心驾驶行为检测图像预处理}{13}{chapter.2}%
+\contentsline {section}{\numberline {2.1}引言}{13}{section.2.1}%
+\contentsline {section}{\numberline {2.2}图像噪声检测}{13}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}噪声强度估计方式}{13}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.2}基于主成分分析方法的噪声强度估计}{14}{subsection.2.2.2}%
+\contentsline {section}{\numberline {2.3}图像去噪技术}{16}{section.2.3}%
+\contentsline {section}{\numberline {2.4}本章小结}{18}{section.2.4}%
+\contentsline {chapter}{\numberline {第三章\hspace {.3em}}基于模型融合的分心驾驶行为检测方法}{19}{chapter.3}%
+\contentsline {section}{\numberline {3.1}引言}{19}{section.3.1}%
+\contentsline {section}{\numberline {3.2}模型融合}{20}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}ResNet网络}{20}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}Vision Transformer网络}{23}{subsection.3.2.2}%
+\contentsline {subsection}{\numberline {3.2.3}RViT网络}{26}{subsection.3.2.3}%
+\contentsline {section}{\numberline {3.3}仿真实验}{27}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}实验设置}{27}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.3.2}性能评价标准}{29}{subsection.3.3.2}%
+\contentsline {subsection}{\numberline {3.3.3}实验结果及分析}{29}{subsection.3.3.3}%
+\contentsline {section}{\numberline {3.4}本章小结}{33}{section.3.4}%
+\contentsline {chapter}{\numberline {第四章\hspace {.3em}}一种孤立中心损失方法及其在分类任务中的应用}{35}{chapter.4}%
+\contentsline {section}{\numberline {4.1}引言}{35}{section.4.1}%
+\contentsline {section}{\numberline {4.2}改进Softmax损失函数}{36}{section.4.2}%
+\contentsline {section}{\numberline {4.3}CenterLoss损失函数}{37}{section.4.3}%
+\contentsline {section}{\numberline {4.4}孤立中心损失函数}{38}{section.4.4}%
+\contentsline {subsection}{\numberline {4.4.1}前向传播}{38}{subsection.4.4.1}%
+\contentsline {subsection}{\numberline {4.4.2}反向求导}{39}{subsection.4.4.2}%
+\contentsline {section}{\numberline {4.5}仿真实验}{40}{section.4.5}%
+\contentsline {subsection}{\numberline {4.5.1}实验相关设置}{40}{subsection.4.5.1}%
+\contentsline {subsection}{\numberline {4.5.2}性能评价标准}{41}{subsection.4.5.2}%
+\contentsline {subsection}{\numberline {4.5.3}实验结果及分析}{42}{subsection.4.5.3}%
+\contentsline {section}{\numberline {4.6}本章小节}{46}{section.4.6}%
+\contentsline {chapter}{\numberline {第五章\hspace {.3em}}基于模型融合的分心驾驶行为检测系统}{47}{chapter.5}%
+\contentsline {section}{\numberline {5.1}引言}{47}{section.5.1}%
+\contentsline {section}{\numberline {5.2}系统软件环境}{47}{section.5.2}%
+\contentsline {section}{\numberline {5.3}系统设计方案}{49}{section.5.3}%
+\contentsline {section}{\numberline {5.4}系统测试}{50}{section.5.4}%
+\contentsline {section}{\numberline {5.5}本章小节}{52}{section.5.5}%
+\contentsline {chapter}{\numberline {第六章\hspace {.3em}}总结与展望}{53}{chapter.6}%
+\contentsline {section}{\numberline {6.1}工作总结}{53}{section.6.1}%
+\contentsline {section}{\numberline {6.2}工作展望}{54}{section.6.2}%
+\contentsline {chapter}{参考文献}{55}{section*.46}%
+\contentsline {chapter}{致谢}{61}{section*.48}%
+\contentsline {chapter}{作者简介}{63}{section*.50}%

@@ -1,0 +1,79 @@
+This is BibTeX, Version 0.99d (TeX Live 2021/W32TeX)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: xdupgthesis.aux
+The style file: gbt7714-numerical.bst
+A level-1 auxiliary file: chapters/abstract.aux
+A level-1 auxiliary file: chapters/chapter1.aux
+A level-1 auxiliary file: chapters/chapter2.aux
+A level-1 auxiliary file: chapters/chapter3.aux
+A level-1 auxiliary file: chapters/chapter4.aux
+A level-1 auxiliary file: chapters/chapter5.aux
+A level-1 auxiliary file: chapters/chapter6.aux
+A level-1 auxiliary file: chapters/thanks.aux
+A level-1 auxiliary file: chapters/resume.aux
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 150 items from 100.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Database file #1: xdupgthesis.bib
+Warning--empty year in 3
+Warning--empty year in 3
+Warning--empty year in 29
+Warning--empty year in 29
+Warning--empty year in 36
+Warning--empty year in 36
+Warning--empty journal in 10
+Warning--empty journal in 24
+Warning--empty year in 29
+Warning--empty year in 29
+Warning--empty journal in 34
+Warning--empty journal in 52
+Warning--empty journal in 54
+Warning--empty journal in 53
+Warning--empty journal in 55
+Warning--empty journal in 56
+You've used 67 entries,
+            5246 wiz_defined-function locations,
+            1316 strings with 18192 characters,
+and the built_in function-call counts, 486741 in all, are:
+= -- 10444
+> -- 56308
+< -- 70416
++ -- 19780
+- -- 4007
+* -- 2977
+:= -- 67836
+add.period$ -- 203
+call.type$ -- 67
+change.case$ -- 485
+chr.to.int$ -- 17451
+cite$ -- 83
+duplicate$ -- 1566
+empty$ -- 4027
+format.name$ -- 2118
+if$ -- 126507
+int.to.chr$ -- 2
+int.to.str$ -- 68
+missing$ -- 0
+newline$ -- 366
+num.names$ -- 201
+pop$ -- 21929
+preamble$ -- 1
+purify$ -- 67
+quote$ -- 0
+skip$ -- 53425
+stack$ -- 0
+substring$ -- 21995
+swap$ -- 69
+text.length$ -- 1163
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 833
+warning$ -- 16
+while$ -- 1421
+width$ -- 0
+write$ -- 910
+(There were 16 warnings)

@@ -1,0 +1,430 @@
+\begin{thebibliography}{67}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{#1}
+\expandafter\ifx\csname urlstyle\endcsname\relax\else
+  \urlstyle{same}\fi
+\expandafter\ifx\csname href\endcsname\relax
+  \DeclareUrlCommand\doi{\urlstyle{rm}}
+  \def\eprint#1#2{#2}
+\else
+  \def\doi#1{\href{https://doi.org/#1}{\nolinkurl{#1}}}
+  \let\eprint\href
+\fi
+
+\bibitem[Dingus(2006)]{1}
+DINGUS~T~A.
+\newblock The 100-car naturalistic driving study, phase ii-results of the
+  100-car field experiment[J].
+\newblock DOT HS 810593, 2006.
+
+\bibitem[Singh(2015)]{2}
+SINGH~S.
+\newblock Critical reasons for crashes investigated in the national motor
+  vehicle crash causation survey[J].
+\newblock Traffic Safety Facts - Crash Stats, 2015.
+
+\bibitem[{safety facts([2019])}]{3}
+SAFETY FACTS~T.
+\newblock Available online:[EB/OL].
+\newblock \allowbreak[2019-2-16].
+\newblock \url{https://www.nhtsa.gov/risky-driving/distracted-driving}.
+
+\bibitem[Rouzikhah et~al.(2013)Rouzikhah, King, and Rakotonirainy]{4}
+ROUZIKHAH~H, KING~M, RAKOTONIRAINY~A.
+\newblock Examining the effects of an eco-driving message on driver
+  distraction[J].
+\newblock Accident Analysis and Prevention, 2013, 50\allowbreak (2): 975-983.
+
+\bibitem[Ishida et~al.(2001)Ishida and Matsuura]{5}
+ISHIDA~T, MATSUURA~T.
+\newblock The effect of cellular phone use on driving performance[J].
+\newblock IATSS Research, 2001, 25\allowbreak (2): 6-14.
+
+\bibitem[Donald et~al.(1997)Donald, A., Redelmeier, Robert, J., and
+  Tibshirani]{6}
+DONALD, A., REDELMEIER, et~al.
+\newblock Association between cellular-telephone calls and motor vehicle
+  collisions[J].
+\newblock New England Journal of Medicine, 1997.
+
+\bibitem[Harbluk et~al.(2007)Harbluk, Noy, Trbovich, and Eizenman]{7}
+HARBLUK~J, NOY~Y, TRBOVICH~P, et~al.
+\newblock An on-road assessment of cognitive distraction: impacts on drivers'
+  visual behavior and braking performance.[J].
+\newblock Accid Anal Prev, 2007, 39\allowbreak (2): 372-379.
+
+\bibitem[Ghazizadeh et~al.(2013)Ghazizadeh, Lee, Peng, and Boyle]{9}
+GHAZIZADEH~M, LEE~J~D, PENG~Y, et~al.
+\newblock Assessing text reading and text entry while driving using the visual
+  occlusion technique[C]//\allowbreak
+The Seventh International Driving Symposium on Human Factors in Driver
+  Assessment, Training, and Vehicle Design.
+\newblock [S.l.: s.n.], 2013.
+
+\bibitem[Beede et~al.(2006)Beede and Kass]{8}
+BEEDE~K~E, KASS~S~J.
+\newblock Engrossed in conversation: the impact of cell phones on simulated
+  driving performance.[J].
+\newblock Accid Anal Prev, 2006, 38\allowbreak (2): 415-421.
+
+\bibitem[Cagan et~al.(2007)Cagan, Paulus, Schunn, and Wood]{10}
+CAGAN~J, PAULUS~P~B, SCHUNN~C~D, et~al.
+\newblock Final report from the nsf (national science foundation) innovation
+  and discovery workshop: The scientific basis of individual and team
+  innovation and discovery. held on may 17-18, 2006.[J].
+\newblock 2007.
+
+\bibitem[A et~al.(2012)A, A, and B]{11}
+A~C~H, A~A~L, B~M~A~R.
+\newblock Text messaging amongst new zealand drivers: Prevalence and risk
+  perception[J].
+\newblock Transportation Research Part F: Traffic Psychology and Behaviour,
+  2012, 15\allowbreak (3): 261-271.
+
+\bibitem[Jung et~al.(2014)Jung, Shin, and Chung]{12}
+JUNG~S~J, SHIN~H~S, CHUNG~W~Y.
+\newblock Driver fatigue and drowsiness monitoring system with embedded
+  electrocardiogram sensor on steering wheel[J].
+\newblock Iet Intelligent Transport Systems, 2014, 8\allowbreak (1): 43-50.
+
+\bibitem[Almahasneh et~al.(2014)Almahasneh, Kamel, Malik, Wlater, and Weng]{28}
+ALMAHASNEH~H~S, KAMEL~N, MALIK~A~S, et~al.
+\newblock Eeg based driver cognitive distraction assessment[C]//\allowbreak
+2014 5th International Conference on Intelligent and Advanced Systems (ICIAS).
+\newblock [S.l.: s.n.], 2014.
+
+\bibitem[关伟\ 等(2016)关伟, 杨柳, and 江世雄]{14}
+关伟, 杨柳, 江世雄.
+\newblock 脑电在交通驾驶行为中的应用研究综述[J].
+\newblock 交通运输系统工程与信息, 2016, 16\allowbreak (3): 10.
+
+\bibitem[Havran et~al.(2002)Havran, Hupet, Czyz, Lee, and Verleysen]{24}
+HAVRAN~C, HUPET~L, CZYZ~J, et~al.
+\newblock Independent component analysis for face authentication[J].
+\newblock 2002.
+
+\bibitem[Cootes et~al.(2001)Cootes, Edwards, and Taylor]{18}
+COOTES~T~F, EDWARDS~G~J, TAYLOR~C~J.
+\newblock Active appearance models[J].
+\newblock IEEE Transactions on Pattern Analysis and Machine Intelligence, 2001,
+  23\allowbreak (6): 681-685.
+
+\bibitem[Cheng et~al.(2014)Cheng, Jiang, and Jia]{19}
+CHENG~Y, JIANG~B, JIA~K.
+\newblock A deep structure for facial expression recognition under partial
+  occlusion[C]//\allowbreak
+Tenth International Conference on Intelligent Information Hiding and Multimedia
+  Signal Processing.
+\newblock [S.l.: s.n.], 2014.
+
+\bibitem[Feng et~al.(2007)Feng, Pietik?Inen, and Hadid]{17}
+FENG~X, PIETIK?INEN~M, HADID~A.
+\newblock Facial expression recognition based on local binary patterns[J].
+\newblock Pattern Recognition and Image Analysis, 2007, 17\allowbreak (4):
+  592-598.
+
+\bibitem[Dahmane et~al.(2011)Dahmane and Meunier]{21}
+DAHMANE~M, MEUNIER~J.
+\newblock Emotion recognition using dynamic grid-based hog
+  features[C]//\allowbreak
+IEEE International Conference on Automatic Face and Gesture Recognition and
+  Workshops.
+\newblock [S.l.: s.n.], 2011: 884-888.
+
+\bibitem[Jun et~al.(2016)Jun, Zhou, Sue, Zhang, Hongyan, Mei, Dawei, and
+  Wang]{15}
+JUN, ZHOU, SUE, et~al.
+\newblock A method of facial expression recognition based on gabor and nmf[J].
+\newblock Pattern Recognition and Image Analysis Advances in Mathematical
+  Theory and Applications in the Ussr, 2016.
+
+\bibitem[Shan et~al.(2009)Shan, Gong, and Mcowan]{16}
+SHAN~C, GONG~S, MCOWAN~P~W.
+\newblock Facial expression recognition based on local binary patterns: A
+  comprehensive study[J].
+\newblock Image and Vision Computing, 2009, 27\allowbreak (6): 803-816.
+
+\bibitem[Tan et~al.(2007)Tan and Triggs]{20}
+TAN~X, TRIGGS~B.
+\newblock Enhanced local texture feature sets for face recognition under
+  difficult lighting conditions[J].
+\newblock Amfg, 2007, 4778\allowbreak (6): 1635-1650.
+
+\bibitem[Ma et~al.(2009)Ma, Hussaini, Vasilyev, and Dimet]{22}
+MA~J, HUSSAINI~M~Y, VASILYEV~O~V, et~al.
+\newblock Multiscale geometric analysis of turbulence by curvelets[J].
+\newblock Physics of Fluids, 2009, 21\allowbreak (7): 1-120.
+
+\bibitem[A et~al.(2001)A, B, B, C, and D]{23}
+A~A~J~C, B~A~M~B, B~P~M, et~al.
+\newblock A principal component analysis of facial expressions -
+  sciencedirect[J].
+\newblock Vision Research, 2001, 41\allowbreak (9): 1179-1208.
+
+\bibitem[Zhang et~al.(2011)Zhang, Zheng, Fei, and He]{25}
+ZHANG~X, ZHENG~N, FEI~W, et~al.
+\newblock Visual recognition of driver hand-held cell phone use based on hidden
+  crf[C]//\allowbreak
+IEEE International Conference on Vehicular Electronics and Safety.
+\newblock [S.l.: s.n.], 2011.
+
+\bibitem[Berri et~al.(2014)Berri, Silva, Parpinelli, Girardi, and Arthur]{26}
+BERRI~R~A, SILVA~A~G, PARPINELLI~R~S, et~al.
+\newblock A pattern recognition system for detecting use of mobile phones while
+  driving[J].
+\newblock IEEE, 2014.
+
+\bibitem[Craye et~al.(2015)Craye and Karray]{27}
+CRAYE~C, KARRAY~F.
+\newblock Driver distraction detection and recognition using rgb-d sensor[J].
+\newblock computer science, 2015.
+
+\bibitem[薛雷()]{29}
+薛雷.
+\newblock 考虑驾驶员生物电信号的疲劳驾驶检测方法研究[D].
+\newblock [出版地不详]: 吉林大学.
+
+\bibitem[夏瀚笙\ 等(2019)夏瀚笙, 沈峘, and 胡委]{30}
+夏瀚笙, 沈峘, 胡委.
+\newblock 基于人体关键点的分心驾驶行为识别[J].
+\newblock 计算机技术与发展, 2019, 29\allowbreak (7): 5.
+
+\bibitem[Baheti et~al.(2018{\natexlab{a}})Baheti, Gajre, and Talbar]{31}
+BAHETI~B, GAJRE~S, TALBAR~S.
+\newblock Detection of distracted driver using convolutional neural
+  network[C]//\allowbreak
+2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops
+  (CVPRW).
+\newblock [S.l.: s.n.], 2018{\natexlab{a}}.
+
+\bibitem[Maurya et~al.(2020)Maurya and Choudhary]{32}
+MAURYA~S~K, CHOUDHARY~A.
+\newblock A deep learning based framework for distracted driver detection[M].
+\newblock [S.l.]: Computer Vision, Pattern Recognition, Image Processing, and
+  Graphics, 2020.
+
+\bibitem[Abtahi et~al.(2014)Abtahi, Omidyeganeh, Shirmohammadi, and Hariri]{35}
+ABTAHI~S, OMIDYEGANEH~M, SHIRMOHAMMADI~S, et~al.
+\newblock Yawdd: A yawning detection dataset[C]//\allowbreak
+ACM Multimedia Systems (MMSys).
+\newblock [S.l.: s.n.], 2014.
+
+\bibitem[{Dataset([2019])}]{36}
+DATASET~S~D~D~D.
+\newblock Available online:[EB/OL].
+\newblock \allowbreak[2019-2-13].
+\newblock \url{https://www.kaggle.com/c/
+  state-farm-distracted-driver-detection}.
+
+\bibitem[Abouelnaga et~al.(2018)Abouelnaga, Eraqi, and Moustafa]{37}
+ABOUELNAGA~Y, ERAQI~H~M, MOUSTAFA~M~N.
+\newblock Real-time distracted driver posture classification[C]//\allowbreak
+2018 NIPS Workshop on Machine Learning for Intelligent Transportation Systems.
+\newblock [S.l.: s.n.], 2018.
+
+\bibitem[Geyer et~al.(2020)Geyer, Kassahun, Mahmudi, Ricou, and Schuberth]{34}
+GEYER~J, KASSAHUN~Y, MAHMUDI~M, et~al.
+\newblock A2d2: Audi autonomous driving dataset[J].
+\newblock 2020.
+
+\bibitem[Jing et~al.(2012)Jing and Li]{38}
+JING~T, LI~C.
+\newblock Image noise estimation using a variation-adaptive evolutionary
+  approach[J].
+\newblock IEEE Signal Processing Letters, 2012, 19\allowbreak (7): 395-398.
+
+\bibitem[Amer et~al.(2005)Amer and Dubois]{39}
+AMER~A, DUBOIS~E.
+\newblock Fast and reliable structure-oriented video noise estimation[J].
+\newblock IEEE Transactions on Circuits and Systems for Video Technology, 2005,
+  15\allowbreak (1): 113-118.
+
+\bibitem[Wei(2014)]{40}
+WEI~L.
+\newblock Additive white gaussian noise level estimation based on block
+  svd[C]//\allowbreak
+2014 IEEE Workshop on Electronics, Computer and Applications.
+\newblock [S.l.: s.n.], 2014.
+
+\bibitem[Ghazi et~al.(2017)Ghazi and Erdogan]{41}
+GHAZI~M~M, ERDOGAN~H.
+\newblock Image noise level estimation based on higher-order statistics[J].
+\newblock Multimedia Tools and Applications, 2017, 76\allowbreak (2): 1-19.
+
+\bibitem[Jiang et~al.(2016)Jiang and Zhang]{43}
+JIANG~P, ZHANG~J~Z.
+\newblock Fast and reliable noise level estimation based on local statistic[J].
+\newblock Pattern Recognition Letters, 2016, 78\allowbreak (Jul.15): 8-13.
+
+\bibitem[吴疆\ 等(2018)吴疆, 尤飞, and 蒋平]{44}
+吴疆, 尤飞, 蒋平.
+\newblock 基于回归分析和主成分分析的噪声方差估计方法[J].
+\newblock 电子与信息学报, 2018, 40\allowbreak (5): 7.
+
+\bibitem[Larson et~al.(2002)Larson and Shubert]{45}
+LARSON~H~J, SHUBERT~B~O.
+\newblock Random variables and stochastic processes[J].
+\newblock Journal of the American Chemical Society, 2002, 75\allowbreak (19):
+  4712-4715.
+
+\bibitem[Hssayeni et~al.(2017)Hssayeni, Saxena, Ptucha, and Savakis]{46}
+HSSAYENI~M, SAXENA~S, PTUCHA~R, et~al.
+\newblock Distracted driver detection: Deep learning vs handcrafted
+  features[J].
+\newblock Electronic Imaging, 2017, 2017\allowbreak (10): 20-26.
+
+\bibitem[Baheti et~al.(2018{\natexlab{b}})Baheti, Gajre, and Talbar]{47}
+BAHETI~B, GAJRE~S, TALBAR~S.
+\newblock Detection of distracted driver using convolutional neural
+  network[C]//\allowbreak
+2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops
+  (CVPRW).
+\newblock [S.l.: s.n.], 2018{\natexlab{b}}.
+
+\bibitem[Chen et~al.(2020)Chen, Duan, Long, Wang, and Ling]{49}
+CHEN~J, DUAN~S, LONG~F, et~al.
+\newblock Two-stream convolutional neural networks for emergency recognition in
+  images[C]//\allowbreak
+2020 39th Chinese Control Conference (CCC).
+\newblock [S.l.: s.n.], 2020.
+
+\bibitem[Gumaei et~al.(2020)Gumaei, Al-Rakhami, Hassan, Alamri, and
+  Fortino]{50}
+GUMAEI~A, AL-RAKHAMI~M, HASSAN~M~M, et~al.
+\newblock A deep learning-based driver distraction identification framework
+  over edge cloud[J].
+\newblock Neural Computing and Applications, 2020\allowbreak (1): 1-16.
+
+\bibitem[He et~al.(2016)He, Zhang, Ren, and Sun]{70}
+HE~K, ZHANG~X, REN~S, et~al.
+\newblock Deep residual learning for image recognition[J].
+\newblock IEEE, 2016.
+
+\bibitem[Vaswani et~al.(2017)Vaswani, Shazeer, Parmar, Uszkoreit, Jones, Gomez,
+  Kaiser, and Polosukhin]{51}
+VASWANI~A, SHAZEER~N, PARMAR~N, et~al.
+\newblock Attention is all you need[J].
+\newblock arXiv, 2017.
+
+\bibitem[Carion et~al.(2020)Carion, Massa, Synnaeve, Usunier, Kirillov, and
+  Zagoruyko]{52}
+CARION~N, MASSA~F, SYNNAEVE~G, et~al.
+\newblock End-to-end object detection with transformers[J].
+\newblock 2020.
+
+\bibitem[Zheng et~al.(2020)Zheng, Lu, Zhao, Zhu, and Zhang]{54}
+ZHENG~S, LU~J, ZHAO~H, et~al.
+\newblock Rethinking semantic segmentation from a sequence-to-sequence
+  perspective with transformers[J].
+\newblock 2020.
+
+\bibitem[Dosovitskiy et~al.(2020)Dosovitskiy, Beyer, Kolesnikov, Weissenborn,
+  and Houlsby]{53}
+DOSOVITSKIY~A, BEYER~L, KOLESNIKOV~A, et~al.
+\newblock An image is worth 16x16 words: Transformers for image recognition at
+  scale[J].
+\newblock 2020.
+
+\bibitem[Touvron et~al.(2020)Touvron, Cord, Douze, Massa, and Jégou]{55}
+TOUVRON~H, CORD~M, DOUZE~M, et~al.
+\newblock Training data-efficient image transformers and distillation through
+  attention[J].
+\newblock 2020.
+
+\bibitem[Jiang et~al.(2020)Jiang, Liu, Wang, and Wu]{66}
+JIANG~P, LIU~G, WANG~Q, et~al.
+\newblock Accurate and reliable facial expression recognition using advanced
+  softmax loss with fixed weights[J].
+\newblock IEEE Signal Processing Letters, 2020, PP\allowbreak (99): 1-1.
+
+\bibitem[Devlin et~al.(2018)Devlin, Chang, Lee, and Toutanova]{56}
+DEVLIN~J, CHANG~M~W, LEE~K, et~al.
+\newblock Bert: Pre-training of deep bidirectional transformers for language
+  understanding[J].
+\newblock 2018.
+
+\bibitem[Huihua et~al.(2019)Huihua, Hansong, Gaohua, Shen, and Xiao]{57}
+HUIHUA~W, HANSONG~S, GAOHUA~L, et~al.
+\newblock Facial expression recognition algorithm based on cosine distance loss
+  function[J].
+\newblock Laser and Optoelectronics Progress, 2019, 56\allowbreak (24): 241502.
+
+\bibitem[Xin et~al.(2018)Xin, Hansong, Gaohua, and Zhenyu]{58}
+XIN~L, HANSONG~S, GAOHUA~L, et~al.
+\newblock A face recognition algorithm based on angular distance loss function
+  and convolutional neural network[J].
+\newblock Laser and Optoelectronics Progress, 2018.
+
+\bibitem[Wenping et~al.(2020)Wenping, Kai, Hongyu, and Fang]{59}
+WENPING~Z, KAI~J, HONGYU~W, et~al.
+\newblock Application of improved island loss in facial expression
+  recognition[J].
+\newblock Journal of Computer-Aided Design and Computer Graphics, 2020,
+  12\allowbreak (32): 1901-1917.
+
+\bibitem[Z et~al.(2018)Z, HU, and W.]{60}
+Z~L, HU~J, W.~D.
+\newblock Local subclass constraint for facial expression recognition in the
+  wild[C]//\allowbreak
+2018 24th International Conference on Pattern Recognition (ICPR).
+\newblock [S.l.: s.n.], 2018.
+
+\bibitem[Wang et~al.(2018)Wang, Wang, Zhou, Ji, Gong, Zhou, Li, and Liu]{65}
+WANG~H, WANG~Y, ZHOU~Z, et~al.
+\newblock Cosface: Large margin cosine loss for deep face
+  recognition[C]//\allowbreak
+2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition.
+\newblock [S.l.: s.n.], 2018.
+
+\bibitem[DENG~J(2019)]{68}
+DENG~J~X~N, Guo~J.
+\newblock Arcface: Additive angular margin loss for deep face recognition[J].
+\newblock in Proc. IEEE Conf. Comput. Vision Pattern Recognit., 2019:
+  4685–4694.
+
+\bibitem[Wen et~al.(2016)Wen, Zhang, Li, and Yu]{63}
+WEN~Y, ZHANG~K, LI~Z, et~al.
+\newblock A discriminative feature learning approach for deep face
+  recognition[C]//\allowbreak
+European Conference on Computer Vision.
+\newblock [S.l.: s.n.], 2016.
+
+\bibitem[Wen et~al.(2019)Wen, Zhang, Li, and Qiao]{64}
+WEN~Y, ZHANG~K, LI~Z, et~al.
+\newblock A comprehensive study on center loss for deep face recognition[J].
+\newblock International Journal of Computer Vision, 2019, 127\allowbreak (6):
+  668-683.
+
+\bibitem[Cai et~al.(2018)Cai, Meng, Khan, Li, O'Reilly, and Tong]{69}
+CAI~J, MENG~Z, KHAN~A~S, et~al.
+\newblock Island loss for learning discriminative features in facial expression
+  recognition[J].
+\newblock IEEE International Conference on Automatic Face and Gesture
+  Recognition (FG), 2018: 302-309.
+
+\bibitem[Li et~al.(2017)Li, Deng, and Du]{61}
+LI~S, DENG~W, DU~J~P.
+\newblock Reliable crowdsourcing and deep locality-preserving learning for
+  expression recognition in the wild[C]//\allowbreak
+2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR).
+\newblock [S.l.: s.n.], 2017.
+
+\bibitem[Li et~al.(2018)Li and Deng]{62}
+LI~S, DENG~W.
+\newblock Reliable crowdsourcing and deep locality-preserving learning for
+  unconstrained facial expression recognition[J].
+\newblock IEEE Transactions on Image Processing, 2018, PP: 1-1.
+
+\bibitem[王军杰\ 等(2022)王军杰, 蒋平, 王泉, and 刘音]{71}
+王军杰, 蒋平, 王泉, 等.
+\newblock
+  一种孤立中心损失方法及其在人脸表情识别中的应用[J].
+\newblock EI, 2022, 04\allowbreak (8): 1-8.
+
+\bibitem[Barsoum et~al.(2016)Barsoum, Zhang, Ferrer, and Zhang]{67}
+BARSOUM~E, ZHANG~C, FERRER~C~C, et~al.
+\newblock Training deep networks for facial expression recognition with
+  crowd-sourced label distribution[J].
+\newblock ACM, 2016.
+
+\end{thebibliography}

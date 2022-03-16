@@ -1,0 +1,76 @@
+\begin{abstract}
+
+    安全驾驶一直以来是交通研究中的热门话题，因此在公共安全和经济应用方面具有极高的研究意义。近些年，随着芯片制造技术的不断升级，高性能计算芯片助力复杂高效算法的研究和工程应用，致使复杂算法能够在更加小巧的芯片平台运行，使得辅助驾驶系统更加智能化。为了应对更加复杂的道路交通环境，降低事故发生机率，保护乘车人员的生命安全。其中，驾驶者的分心驾驶行为是导致交通事故发生的主要因素，因此规范驾驶行为是辅助系统的重中之重。
+
+    本文旨在研究辅助约束驾驶行为规范的技术，主要以分心驾驶行为展开，对一些关键技术进行研究，主要的贡献和创新性工作归纳如下：
+
+    一、驾驶者行为特征是一个肢体综合特征，卷积神经网络（Convolutional Neural Networks, CNN）具有高效的特征提取能力，将轮廓姿态进行抽象概括，实现更少的数据量表达图像整体的信息。CNN受限于局部区域特征的联系性，在不断的监督学习中难以将远距离特征相关联。随着视觉Transformer（Vision Transformer，ViT）网络的提出，图像远距离区域的特征联系性得以实现，Transformer网络自带的注意力机制得以继承，然而特征提取不完全的先天缺陷也随之暴露。综合以上问题所在，针对分心驾驶行为检测的特点，本文创新性的工作是：（1）提出了模型融合网络残差视觉Transformer网络（Residual Vision Transformer，RViT），综合了残差网络（Residual Networks，ResNet）优秀的特征提取效率与ViT的远距离特征之间的关联性。（2）提出了序列化图像过滤处理，即序列块局部平均池化，解决了由于模型参数量过多而导致的过拟合与准确率下降问题。相比较于卷积网络和视觉Transformer网络，准确率得以提升，且稳定性较RViT有提升。
+
+   二、由于训练的数据集样本之间存在类别数量失衡问题，针对分类损失函数Softmax（Softmax Loss，SL）损失监督下各类样本之间区分度不足，提出了一种孤立中心损失函数（Isolated Center Loss，ICL）监督方法。基于类间离散度尽量大、类内离散度尽量小的原则，提出方法由三部分组成：第一部分采用等角分布固定权值，使得全部类间夹角余弦值之和最小，确保不同类别在角度空间的距离最大化；第二部分是中心聚类思想，最小化每个样本与其所属类别的中心之间的欧氏距离，促使同类样本尽量聚拢；第三部分最大化不同类之间的欧氏距离，使得不同类样本在欧氏空间尽量分开。提出方法的运行速度只比SL损失方法略微慢一点，仍然比一些其它方法快。相比于SL损失函数，提出方法不仅提高了准确率，同时也更加稳定（相同配置下多次实验结果的变化程度更小）。ICL损失函数运行速度只比SL损失方法略微慢一点，仍然比一些其它方法快。
+
+   三、结合本文的创新研究内容，设计工程模拟系统，加入了图像质量预处理，用于检测噪声和去除噪声对模型准确率的影响。该系统符合分心驾驶检测算法研究的目的，针对性的解决了模型存在的问题。
+
+    \keywords{分心驾驶行为检测,\quad{}卷积神经网络,\quad{}RViT网络,\quad{}ICL损失函数,\quad{}ViT网络,\quad{}数据集不平衡}
+\end{abstract}
+
+
+\begin{englishabstract}
+
+   Safe driving has always been a hot topic in traffic research, so it has great research significance in public safety and economic application.In recent years, with the continuous upgrading of chip manufacturing technology, the high-performance computing chip facilitates the research and engineering application of complex and high-efficiency algorithms, which enables complex algorithms to run on more compact chip platforms and makes driving assistance systems more intelligent.In order to cope with the more complicated road traffic environment, reduce the accident occurrence probability and protect the life safety of passengers.Among them, driver's distracted driving behavior is the main factor leading to traffic accidents, so standardizing driving behavior is the most important task of the assistant system.
+   \par~\par
+   This paper aims to study the techniques of assistant restraint driving behavior behavior, mainly focusing on distracted driving behavior. Some key technologies are studied. The main contributions and innovative works are summarized as follows:
+   \par~\par
+   Firstly, driver's behavior characteristic is a kind of limb synthesis feature. Convolved Neural Networks (CNN) has the ability of highly efficient feature extraction, abstractly generalizes the contour posture and realizes less data to express the whole information of the image.Because CNN is limited by the connection of local features, it is difficult to correlate long-distance features in continuous supervised learning.With the development of vision transformer (ViT) network, the feature connection of remote region of image is realized, and the attention mechanism of transformer network is inherited. However, the inherent defect of incomplete feature extraction is exposed.Based on the above problems and the characteristics of distracted driving behavior detection, the innovative work of this paper is as follows: (1) A model fusion residual vision transformer (RViT) network is proposed, which synthesizes the correlation between the excellent feature extraction efficiency of Residual Networks (ResNet) and the long-distance feature of ViT.(2) Serialized image filtering processing, that is, local average pooling of sequence blocks, is proposed to solve the problem of over-fitting and accuracy degradation caused by too many parameters of the model.Compared with convolution network and visual transformer network, the accuracy rate is improved, and the stability is improved compared with RViT.
+   \par~\par
+   Secondly, due to the imbalance of the number of categories among the trained data sets, an isolated center loss function (ICL) is proposed to monitor the classification loss function Softmax (Softmax Loss, SL).Based on the principle that the inter-class dispersion is as large as possible and the intra-class dispersion as small as possible, the method is composed of three parts: The first part adopts fixed weights of equal-angle distribution to minimize the sum of cosine values of all angles between classes and ensure the maximum distance of different classes in angle space;The second part is the idea of center clustering, which minimizes the Euclidean distance between each sample and the center of its class, and urges the same kind of samples to gather together as much as possible.The third part maximizes the Euclidean distance between different classes so that the samples of different classes are separated in Euclidean space as much as possible.The proposed method runs only slightly slower than the SL loss method and is still faster than some other methods.Compared with the SL loss function, the proposed method not only improves the accuracy but also is more stable (the variation of multiple experimental results under the same configuration is less).The ICL loss function runs only slightly slower than the SL loss method and is still faster than some other methods.
+   \par~\par
+   Thirdly, combining the innovative research content of this paper, we design the engineering simulation system, and add the image quality preprocessing to detect the noise and remove the influence of noise on the accuracy of the model.This system accords with the research purpose of distracted driving detection algorithm, and solves the problems existing in the model.
+   
+
+    \englishkeywords{Distracted Driving Behavior Detection, \quad{} Convolutional Neural Network, \quad{} Residual Vision Transformer Network, \quad{} Isolated Center Loss, \quad{} Vision Transformer Network, \quad{} Dataset Imbalance}
+\end{englishabstract}
+
+
+\XDUpremainmatter
+\begin{symbollist}{p{5cm}p{12cm}}
+    $\mathcal{N}_M$ 				 & 				多维高斯分布			\\
+    $Var(\cdot)$					 & 				求方差运算			\\
+    $\|\cdot\|$ 					 & 				二范数（模）			\\
+    $\mathcal{L}_S$					 & 				Softmax层权值向量	 \\
+    $\partial$						 & 				偏导					\\
+    $\varDelta$						 &				导数					\\
+    $Conv$							 &				卷积操作			  \\
+    $\mathcal{L}_ICL$				 &				ICL权重向量			  \\
+    $MSA$							 & 				多头注意力机制			\\
+    $MLP$							 &				多层感知机			 \\
+    $LN$							 &				层标准化			  \\
+    $W^c$							 &				可训练的序列向量	   \\
+    $\mathcal{L}_{CL}$				 &				CL权重向量			  \\
+    
+
+\end{symbollist}
+
+
+
+\begin{abbreviationlist}{p{2cm}p{7cm}p{6cm}}
+    CNN                 &       Convolutional Neural Networks       	&   卷积神经网络                    \\
+    ViT                 &       Vision Transformer                  	&   视觉Transformer网络             \\
+    BN                  &       BatchNormalization                  	&   批归一化                        \\
+    LN                  &       Layer Normalization                 	&   层归一化                        \\
+    ICL                 &       Isolated Center Loss                	&   孤立中心损失函数                 \\
+    RViT                &       Residual Vision Transformer         	&   残差视觉Transformer网络          \\
+    ASL                 &       Advanced Softmax Loss               	&   改进Softmax损失函数              \\
+    SL                  &       Softmax Loss                        	&   Softmax损失函数                  \\
+    ResNet              &       Residual Networks                   	&   残差神经网络                      \\
+    LAP                 &       Local Average Pooling               	&   局部平均池化                      \\
+    BLUE                &       Best Linear Unbiased Estimator      	&   最佳无偏估计                      \\
+    NLP                 &       Natural Language Processing         	&   自然语言处理                      \\
+    FFN                 &       Feed Forward Neural Network         	&   前馈神经网络                      \\
+    LPFP                &       Linear Projection of Flattened Patches  &   扁平化序列向量做线性映射        \\
+    DT                  &       Distillation Token                  	&   蒸馏令牌                          \\
+    A2D2                &       Audi Autonomous Driving Dataset     	&   自动化驾驶数据集                   \\
+    CL                  &       Center Loss                         	&   中心损失函数                       \\
+    NLE                 &       Noise Level Estimation              	&   噪声强度估计                       \\
+    PCA                 &       Principal Component Analysis        	&   主成分分析                         \\
+
+\end{abbreviationlist}
